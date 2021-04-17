@@ -1,0 +1,21 @@
+.heading_blue{
+    font-size: 40px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(0, 162, 255);
+  }
+  
+  .floating_right {
+    position: -ms-page;
+    position: sticky;
+    top: 100px;
+    margin-right:40px;
+    margin-top: 40px;
+    float: right;
+    background: radial-gradient(rgb(21, 255, 0), rgb(0, 255, 234));
+    height: 70vh;
+    width: 40vw;
+    border: 0px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    padding:30px;
+  }
